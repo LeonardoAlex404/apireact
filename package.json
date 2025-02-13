@@ -15,9 +15,9 @@
     "web-vitals": "^4.2.4",
     "workbox-google-analytics": "^7.0.0"
   },
-  "engines": {
-    "node": "18.x"
-  },
+ "engines": {
+  "node": ">=16.x"
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
